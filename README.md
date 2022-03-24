@@ -6,4 +6,4 @@ Usage:
 1) Clone this repository (git clone) into your local
 2) Open the Jupyter notebook that you're working on
 3) Run this command in a cell: %run <file_path.ipynb> or just %run <filename.ipynb> if in the same directory
-4) Feel free to use the functions! 
+4) Once the notebook is imported, feel free to use the functions! 
